@@ -17,6 +17,9 @@ main:
 
   - title: "Highlighted Projects"
     url: "/#highlighted-projects"
-      
+  
+  - title: "Invention Patent"
+    url: "/#invention-patent"
 
-    
+  - title: "Invention Pat"
+    url: "/publications"
