@@ -111,7 +111,7 @@ redirect_from:
 
 
 # Publications
-[28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, [“Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,”](https://ieeexplore.ieee.org/document/10175531)IEEE Journal of Emerging and Selected Topics in Power Electronics, in press. [PDF](/files/APPEEC2019.pdf) 
+[28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, [“Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,”](https://ieeexplore.ieee.org/document/10175531)IEEE Journal of Emerging and Selected Topics in Power Electronics, in press. [(PDF)](/files/APPEEC2019.pdf) 
 
 [27] Zhicong Huang*, Canjun Yuan, Hanchen Ge and Ting Hou, [“Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm”](https://ieeexplore.ieee.org/document/10167658), IEEE Journal on Emerging and Selected Topics in Circuits and Systems, in press.
 
@@ -155,17 +155,7 @@ redirect_from:
 
 [8]   2020年，Outstanding Prize in Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition；
 
-# Teaching
 
-**教研项目：**
-- 基于处理器在环的嵌入式课程实验教学方案的研究，广东省本科高校教学质量与教学改革工程项目；
-- 基于半实物仿真的电子电路类和控制类课程实验教学改革方案研究，教育部产学合作协同育人项目；
-- 华南理工大学—华为“智能基座”产教融合协同育人基地联接领域课程项目《嵌入式系统与设计》；
-
-**讲授课程：**
-- （本科）嵌入式系统与设计、电路导论、应用微积分
-- （研究生）嵌入式系统与边缘人工智能、数字伺服系统
-  
 # News
 {% for post in site.news %}
   {% include archive-single.html %}
