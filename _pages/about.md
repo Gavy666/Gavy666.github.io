@@ -18,12 +18,99 @@ redirect_from:
 - 以新能源为主体的新型电力系统
 - 新能源汽车驱动和控制技术
 - 电力电子变换器的建模与控制
-  
+- 
+  <html lang="zh-CN">
+<table style="margin-left: auto; margin-right: auto;">
+     <style>
+        table {
+            width: 100%; /* 设置表格宽度为80% */
+        }
+        colgroup {
+            width: 20%; /* 设置左侧单元格宽度为20% */
+        }
+        col {
+            width: 80%; /* 设置右侧单元格宽度为80% */
+        }
+    </style>
+    <tr>
+        <td>
+            <!--左侧内容-->
+            < img src="../images/featured.png" />
+        </td>
+        <td>
+            <!--右侧内容-->
+            这是吴贤铭智能工程学院最好的老师！
+            详细内容... 
+        </td>
+    </tr>
+</table>
+</html>
+
+<html lang="zh-CN">
+<table>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table {
+            width: 100%;
+        }
+        td:nth-child(1) {
+            width: 80%;
+        }
+        td:nth-child(2) {
+            width: 20%;
+        }
+    </style>
+    <colgroup>
+        <col style="width: 20%;">
+    </colgroup>
+    <col>
+    <tr>
+        <td>
+            <!-- 左侧内容 -->
+            < img src="../images/featured.png" style="zoom: 25%;" alt="News Image">
+        </td>
+        <td>
+            <!-- 右侧内容 -->
+            这是吴贤铭智能工程学院最牛逼的老师！
+              
+        </td>
+    </tr>
+</table>
+</html>
+
+<html lang="zh-CN">
+<table>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table {
+            width: 100%;
+        }
+        td:nth-child(1) {
+            width: 50%;
+        }
+        td:nth-child(2) {
+            width: 50%;
+        }
+    </style>
+    <tr>
+        <td>
+            <!-- 左侧内容 -->
+            < img src="../images/featured.png" style="zoom: 25%;" alt="News Image">
+        </td>
+        <td>
+            <!-- 右侧内容 -->
+            这是吴贤铭智能工程学院最帅气的老师！
+              
+        </td>
+    </tr>
+</table>
+</html>
+
 
 # Publications
-[28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, [“PDF”](/files/APPEEC2019.pdf) IEEE Journal of Emerging and Selected Topics in Power Electronics, in press.
-
-[28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, [“Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,”](https://ieeexplore.ieee.org/document/10175531) [“PDF”](/files/APPEEC2019.pdf) IEEE Journal of Emerging and Selected Topics in Power Electronics, in press.
+[28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, [“Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,”](https://ieeexplore.ieee.org/document/10175531) [PDF](/files/APPEEC2019.pdf) IEEE Journal of Emerging and Selected Topics in Power Electronics, in press.
 
 [27] Zhicong Huang*, Canjun Yuan, Hanchen Ge and Ting Hou, [“Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm”](https://ieeexplore.ieee.org/document/10167658), IEEE Journal on Emerging and Selected Topics in Circuits and Systems, in press.
 
