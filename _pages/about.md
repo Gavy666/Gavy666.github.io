@@ -14,7 +14,6 @@ redirect_from:
 
 # Research area
 
-
 <html lang="zh-CN">
 <table style="margin-left: auto; margin-right: auto;">
      <style>
@@ -106,13 +105,13 @@ redirect_from:
 
 
 # Publications
-[28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, [“Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,”](https://ieeexplore.ieee.org/document/10175531)IEEE Journal of Emerging and Selected Topics in Power Electronics, in press. [(PDF)](/files/APPEEC2019.pdf) 
+[32] Wenhua Ding, Yufei Wang, Tingyu Chen, Zhenghong Lu, Yue You, Jingyu Wang, and Zhicong Huang*, “A stacking machine-learning based method for accelerating magnetic coupler design with ferrite cores in inductive power transfer applications,” International Journal of Circuit Theory and Applications, to appear.
 
-[27] Zhicong Huang*, Canjun Yuan, Hanchen Ge and Ting Hou, [“Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm”](https://ieeexplore.ieee.org/document/10167658), IEEE Journal on Emerging and Selected Topics in Circuits and Systems, in press.
+[31] Hai Xu, Zhicong Huang*, Xiaolu Lucia Li*, and Chi K. Tse, [“Misalignment-tolerant IPT coupler with enhanced magnetic flux variation suppression and reduced copper usage,”](https://ieeexplore.ieee.org/document/10494318)IEEE Transactions on Power Electronics, to appear.[(PDF)](/files/31.pdf) 
 
-[26] Io-Wa Iam, Zhaoyi Ding, Zhicong Huang, Chi-Seng Lam*, Rui P. Martins and Pui-In Mak, [“A flexible rooftop photovoltaic-inductive wireless power transfer system for low-voltage DC grid”](https://ieeexplore.ieee.org/abstract/document/10131951), IEEE Access, vol. 11, pp. 51117-51132, 2023.
+[30] Zhicong Huang*, Tian Qin, Xiaolu Lucia Li*, Li Ding, Herbert Ho-Ching Iu, and Chi K. Tse, [“Synthesis of inductive power transfer converters with dual immittance networks for inherent CC-to-CV charging profiles,”](https://ieeexplore.ieee.org/document/10480593)IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 7766-7777, Jun. 2024.[(PDF)](/files/30.pdf) 
 
-[25] Jingyu Wang and Zhicong Huang*, [“A single-switch WPT circuit with inherent CCO-CVO for battery charging”](https://ieeexplore.ieee.org/abstract/document/10111058), IEEE Transactions on Transportation Electrification, in press.
+[29] Bowei Zou and Zhicong Huang*, [“Primary-frequency-tuning and secondary-impedance-matching IPT converter with programmable constant power output and optimal efficiency tracking against variation of coupling coefficient,”](https://ieeexplore.ieee.org/document/10399825) IEEE Transactions on Power Electronics, vol. 39, no. 4, pp. 4895-4909, Apr. 2024.[(PDF)](/files/29.pdf) 
 
 <html lang="zh-CN">
 <div style="text-align: right;">
