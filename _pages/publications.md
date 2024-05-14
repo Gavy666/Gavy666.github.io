@@ -40,7 +40,7 @@ redirect_from:
 
 [18] Zhijian Fang, Haojiang Yue, Fei Xie and Zhicong Huang*, [“Non-backflow-power and reduced-switching-loss modulation for bidirectional series resonant converter with wide gain range,”](https://ieeexplore.ieee.org/document/9893116) IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 11, no. 1, pp. 490-505, Feb. 2023.
 
-[17] 黄智聪*,邹博维,黄振威.[基于开关可控电容和半控整流桥的功率源型感应式耦合电能传输系统[J]](https://d.wanfangdata.com.cn/periodical/dgjsxb202224010).电工技术学报,2022,37(24):6272-6283.
+[17] 黄智聪*,邹博维,黄振威.基于开关可控电容和半控整流桥的功率源型感应式耦合电能传输系统[J].电工技术学报,2022,37(24):6272-6283.
 
 [16] Zhijian Fang, Hanlin Dong, Haotian Sun, Fei Xie and Zhicong Huang*, [“Intermittent sinusoidal modulation of bidirectional series resonant converter with zero current switching, linear current controllability and load-independent efficiency,”](https://ieeexplore.ieee.org/document/9773036) IEEE Transactions on Power Electronics, vol. 37, no. 10, pp. 11725-11738, Oct. 2022.
 
