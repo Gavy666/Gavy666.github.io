@@ -19,7 +19,7 @@ redirect_from:
 - 新能源汽车驱动和控制技术
 - 电力电子变换器的建模与控制
 - 
-  <html lang="zh-CN">
+<html lang="zh-CN">
 <table style="margin-left: auto; margin-right: auto;">
      <style>
         table {
@@ -35,7 +35,7 @@ redirect_from:
     <tr>
         <td>
             <!--左侧内容-->
-            < img src="../images/featured.png" />
+            <img src=".../images/featured.png"/>
         </td>
         <td>
             <!--右侧内容-->
@@ -46,67 +46,7 @@ redirect_from:
 </table>
 </html>
 
-<html lang="zh-CN">
-<table>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        table {
-            width: 100%;
-        }
-        td:nth-child(1) {
-            width: 80%;
-        }
-        td:nth-child(2) {
-            width: 20%;
-        }
-    </style>
-    <colgroup>
-        <col style="width: 20%;">
-    </colgroup>
-    <col>
-    <tr>
-        <td>
-            <!-- 左侧内容 -->
-            < img src="../images/featured.png" style="zoom: 25%;" alt="News Image">
-        </td>
-        <td>
-            <!-- 右侧内容 -->
-            这是吴贤铭智能工程学院最牛逼的老师！
-              
-        </td>
-    </tr>
-</table>
-</html>
 
-<html lang="zh-CN">
-<table>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        table {
-            width: 100%;
-        }
-        td:nth-child(1) {
-            width: 50%;
-        }
-        td:nth-child(2) {
-            width: 50%;
-        }
-    </style>
-    <tr>
-        <td>
-            <!-- 左侧内容 -->
-            < img src="../images/featured.png" style="zoom: 25%;" alt="News Image">
-        </td>
-        <td>
-            <!-- 右侧内容 -->
-            这是吴贤铭智能工程学院最帅气的老师！
-              
-        </td>
-    </tr>
-</table>
-</html>
 
 
 # Publications
