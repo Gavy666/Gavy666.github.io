@@ -111,7 +111,7 @@ redirect_from:
 
 
 # Publications
-[28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, [“Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,”](/files/APPEEC2019.pdf) IEEE Journal of Emerging and Selected Topics in Power Electronics, in press.(https://ieeexplore.ieee.org/document/10175531) [PDF]
+[28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, [“Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,”](https://ieeexplore.ieee.org/document/10175531)IEEE Journal of Emerging and Selected Topics in Power Electronics, in press. [PDF](/files/APPEEC2019.pdf) 
 
 [27] Zhicong Huang*, Canjun Yuan, Hanchen Ge and Ting Hou, [“Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm”](https://ieeexplore.ieee.org/document/10167658), IEEE Journal on Emerging and Selected Topics in Circuits and Systems, in press.
 
