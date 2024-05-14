@@ -1,9 +1,11 @@
 ---
 title: "Two Student Research Projects Got Grants from University"
-excerpt: "Two student research projects got grants from South China University of Technology and will be carried out under my supervision.<br/>"
+excerpt: ""
 collection: news
 ---
 
 
-sadsaldjsakldas asd  asd 
+
 <img src="https://Gavy666.github.io/images/featured.png" alt="featured2" style="zoom: 100%;" />
+
+sadsaldjsakldas asd  asd 
