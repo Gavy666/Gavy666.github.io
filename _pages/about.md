@@ -14,11 +14,6 @@ redirect_from:
 
 # Research area
 
-- 无线电能传输机理及应用
-- 以新能源为主体的新型电力系统
-- 新能源汽车驱动和控制技术
-- 电力电子变换器的建模与控制
-
 
 <html lang="zh-CN">
 <table style="margin-left: auto; margin-right: auto;">
@@ -161,6 +156,3 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %} 
 <!-- 用于遍历某个文件夹中的所有文章 -->
-
-# Highlighted Projects
-{% for post in site.projects %} {% include archive-single.html %} {% endfor %}
