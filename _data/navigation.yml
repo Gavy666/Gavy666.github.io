@@ -21,3 +21,5 @@ main:
   - title: "Highlighted Projects"
     url: "/#highlighted-projects"
   
+  - title: "CV"
+    url: "/files/HZC_CV.pdf"
